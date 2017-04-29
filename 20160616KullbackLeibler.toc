@@ -1,0 +1,82 @@
+\contentsline {paragraph}{古い版}{1}{section*.1}
+\contentsline {section}{\numberline {0}はじめに}{3}{section.0}
+\contentsline {section}{\numberline {1}多項分布からKullback-Leibler情報量へ}{4}{section.1}
+\contentsline {paragraph}{準備 (Stirlingの公式)}{5}{section*.4}
+\contentsline {subsection}{\numberline {1.1}母集団分布が $q_i$ の多項分布}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}サンプルサイズを大きくしたときの多項分布の漸近挙動}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Kullback-Leibler情報量と相対エントロピーの定義}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Kullback-Leibler情報量の基本性質}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}二項分布の場合の計算例}{8}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}max-plus代数への極限やLaplaceの方法との関係}{9}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}区分求積法による高校レベルの計算でKL情報量を出す方法}{10}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Kullback-Leibler情報量と多項分布の中心極限定理の関係}{10}{subsection.1.8}
+\contentsline {paragraph}{基本になる公式の導出}{11}{section*.8}
+\contentsline {paragraph}{多項分布の中心極限定理}{11}{section*.11}
+\contentsline {paragraph}{KL情報量の導出}{12}{section*.12}
+\contentsline {paragraph}{KL情報量と多項分布の中心極限定理の関係}{12}{section*.13}
+\contentsline {paragraph}{Pearsonのカイ2乗統計量との関係}{13}{section*.14}
+\contentsline {subsection}{\numberline {1.9}Poisson分布とKullback-Leibler情報量の関係}{15}{subsection.1.9}
+\contentsline {paragraph}{Poisson分布}{15}{section*.15}
+\contentsline {paragraph}{Poisson分布の中心極限定理}{16}{section*.16}
+\contentsline {paragraph}{Poisson分布から多項分布へ}{16}{section*.17}
+\contentsline {paragraph}{単独のPoisson分布からKL情報量の各項へ}{17}{section*.18}
+\contentsline {paragraph}{複数のPoisson分布の積からKL情報量へ}{18}{section*.19}
+\contentsline {paragraph}{複数のPoisson分布の積から多項分布の中心極限定理へ}{18}{section*.20}
+\contentsline {section}{\numberline {2}条件付き大数の法則からBoltzmann因子へ}{19}{section.2}
+\contentsline {subsection}{\numberline {2.1}問題の設定}{19}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Boltzmann因子の導出}{20}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}母分布が連続型の場合から連続型の指数型分布族が得られること}{21}{subsection.2.3}
+\contentsline {paragraph}{二項分布:}{22}{section*.29}
+\contentsline {paragraph}{多項分布:}{22}{section*.30}
+\contentsline {paragraph}{正規分布:}{22}{section*.31}
+\contentsline {paragraph}{Gamma分布:}{22}{section*.32}
+\contentsline {paragraph}{第二種Beta分布:}{22}{section*.33}
+\contentsline {paragraph}{自由度 $n$ の $t$ 分布を $1/\sqrt {n}$ でスケールしたもの:}{23}{section*.34}
+\contentsline {paragraph}{第一種Beta分布:}{23}{section*.35}
+\contentsline {paragraph}{Poisson分布:}{23}{section*.36}
+\contentsline {subsection}{\numberline {2.4}標準正規分布の導出例}{23}{subsection.2.4}
+\contentsline {section}{\numberline {3}多項分布の場合のSanovの定理}{24}{section.3}
+\contentsline {subsection}{\numberline {3.1}Sanovの定理の主張}{24}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Sanovの定理の証明の準備}{25}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Sanovの定理の証明}{27}{subsection.3.3}
+\contentsline {section}{\numberline {4}Sanovの定理を使ったカノニカル分布の導出}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}分配函数とエネルギーの期待値}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}条件付き確率分布のカノニカル分布への収束}{31}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}まとめと二項分布もカノニカル分布の例になっていること}{34}{subsection.4.3}
+\contentsline {section}{\numberline {5}付録: Kullback-Leibler情報量に関する不等式}{37}{section.5}
+\contentsline {subsection}{\numberline {5.1}準備: Jensenの不等式}{37}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}対数和不等式とその応用}{38}{subsection.5.2}
+\contentsline {paragraph}{対数和不等式}{38}{section*.43}
+\contentsline {subsection}{\numberline {5.3}Kullback-Leibler情報量で $L^1$ 距離を上からおさえられこと}{39}{subsection.5.3}
+\contentsline {paragraph}{KL情報量で $L^1$ 距離を上からおさえられること:}{39}{section*.45}
+\contentsline {subsection}{\numberline {5.4}Pithagorian theorem}{40}{subsection.5.4}
+\contentsline {paragraph}{Pythagorian theorem}{40}{section*.47}
+\contentsline {section}{\numberline {6}付録: Cram\'erの定理}{40}{section.6}
+\contentsline {subsection}{\numberline {6.1}Cram\'erの定理の設定と主張}{41}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Cram\'erの定理の証明}{42}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}カノニカル分布の相対エントロピーとの関係}{46}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}ガンマ分布の場合の例}{46}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Sanovの定理が拡張されたCram\'erの定理の特別な場合であること}{48}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}$\Psi (\beta )=\qopname \relax o{log}\DOTSB \sum@ \slimits@ _{i=1}^r e^{-\beta _i}q_i$ のLegendre変換は相対エントロピー}{50}{subsection.6.6}
+\contentsline {section}{\numberline {7}付録: 統計力学との関係?}{52}{section.7}
+\contentsline {subsection}{\numberline {7.1}パラメーターに関する分配函数の漸近挙動を仮定した場合}{53}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}統計力学の教科書におけるカノニカル分布の導出 (1)}{56}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}統計力学の教科書におけるカノニカル分布の導出 (2)}{58}{subsection.7.3}
+\contentsline {section}{\numberline {8}付録: 他の種類のエントロピーについて}{59}{section.8}
+\contentsline {subsection}{\numberline {8.1}自由エネルギーやMassieu函数との関係}{59}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}相対R\'enyiエントロピー}{60}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}相対Tsallisエントロピー}{61}{subsection.8.3}
+\contentsline {paragraph}{相対エントロピー}{63}{section*.54}
+\contentsline {paragraph}{相対Tsallisエントロピー}{63}{section*.55}
+\contentsline {paragraph}{相対R\'enyiエントロピー}{64}{section*.56}
+\contentsline {subsection}{\numberline {8.4}加法性(示量性)について}{64}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}相対Tsallisエントロピーを漸近挙動に含む多項分布の拡張(1)}{65}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}相対Tsallisエントロピーを漸近挙動に含む多項分布の拡張(2)}{67}{subsection.8.6}
+\contentsline {subsection}{\numberline {8.7}Csisz\'arの $f$-divergence}{68}{subsection.8.7}
+\contentsline {paragraph}{対数和不等式の一般化}{69}{section*.57}
+\contentsline {section}{\numberline {9}付録: 上極限と下極限に関する簡単な解説}{69}{section.9}
+\contentsline {subsection}{\numberline {9.1}上極限と下極限の定義}{69}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}上極限と下極限の使い方}{70}{subsection.9.2}
+\contentsline {section}{\numberline {10}Mcmillanの不等式と平均符号長}{71}{section.10}
+\contentsline {subsection}{\numberline {10.1}Mcmillanの不等式}{71}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}平均符号長への応用}{72}{subsection.10.2}
