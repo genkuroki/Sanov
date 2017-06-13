@@ -91,6 +91,8 @@
 6月3日Ver.0.25a(73頁): Mathtodonで教えて頂いた誤植を訂正した. 
 ありさん、どうもありがとうございました.
 6月11日Ver.0.25b(73頁): リンク先を少し変えた.
+6月12日Ver.0.25c(73頁): 微修正.
+6月13日Ver.0.25d(73頁): 微修正.
 }
 %%%%%%%%%%
 \\[\bigskipamount]
@@ -1328,7 +1330,7 @@ f(x)
 +\sqrt{\lambda}\,x
 \\ &
 =-\sqrt{\lambda}\,x+\frac{x^2}{2}-x^2+\sqrt{\lambda}\,x
-+O\left(\frac{1}{\lambda\sqrt{\lambda}}\right)
++O\left(\frac{1}{\sqrt{\lambda}}\right)
 =-\frac{x^2}{2}
 +O\left(\frac{1}{\sqrt{\lambda}}\right)
 \end{align*}
@@ -5656,7 +5658,7 @@ $q_i=a_i/a$ すなわち $a_i=a q_i$ とおいてこの不等式を使うと
 \end{align*}
 この不等式は次のように書き直される:
 \begin{align*}
-a_i\geqq 0,\; \sum_{i=1}^t a_i\leqq 1 \implies
+a_i\geqq 0,\; \sum_{i=1}^r a_i\leqq 1 \implies
 -\sum_{i=1}^r p_i\log a_i \geqq -\sum_{i=1}^r p_i \log p_i.
 \tag{$*$}
 \end{align*}
@@ -5695,7 +5697,7 @@ D_b(p||a)
 =\sum_{i=1}^r p_i(-\log_b a_i) - \sum_{i=1}^r p_i(-\log_b p_i)
 \geqq 0
 \]
-は分布 $a_i$ に対応する方法で(文字 $b_i$ を長さ $l_i=-\log a_i$ で)
+は分布 $a_i$ に対応する方法で(文字 $s_i$ を長さ $l_i=-\log a_i$ で)
 一意複合化可能に符号化するときに%
 \footnote{そのときMcmillanの定理より, $\sum_{i=1}^r a_i\leqq 1$ となる.}, 
 「情報量よりも無駄に増えた平均符号長の大きさ」を意味していると解釈される.
