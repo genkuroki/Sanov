@@ -1,82 +1,82 @@
-\contentsline {paragraph}{å¤ã„ç‰ˆ}{1}{section*.1}
-\contentsline {section}{\numberline {0}ã¯ã˜ã‚ã«}{3}{section.0}
-\contentsline {section}{\numberline {1}å¤šé …åˆ†å¸ƒã‹ã‚‰Kullback-Leibleræƒ…å ±é‡ã¸}{4}{section.1}
-\contentsline {paragraph}{æº–å‚™ (Stirlingã®å…¬å¼)}{5}{section*.4}
-\contentsline {subsection}{\numberline {1.1}æ¯é›†å›£åˆ†å¸ƒãŒ $q_i$ ã®å¤šé …åˆ†å¸ƒ}{5}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}ã‚µãƒ³ãƒ—ãƒ«ã‚µã‚¤ã‚ºã‚’å¤§ããã—ãŸã¨ãã®å¤šé …åˆ†å¸ƒã®æ¼¸è¿‘æŒ™å‹•}{6}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Kullback-Leibleræƒ…å ±é‡ã¨ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã®å®šç¾©}{6}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Kullback-Leibleræƒ…å ±é‡ã®åŸºæœ¬æ€§è³ª}{7}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}äºŒé …åˆ†å¸ƒã®å ´åˆã®è¨ˆç®—ä¾‹}{8}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}max-plusä»£æ•°ã¸ã®æ¥µé™ã‚„Laplaceã®æ–¹æ³•ã¨ã®é–¢ä¿‚}{9}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}åŒºåˆ†æ±‚ç©æ³•ã«ã‚ˆã‚‹é«˜æ ¡ãƒ¬ãƒ™ãƒ«ã®è¨ˆç®—ã§KLæƒ…å ±é‡ã‚’å‡ºã™æ–¹æ³•}{10}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}Kullback-Leibleræƒ…å ±é‡ã¨å¤šé …åˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†ã®é–¢ä¿‚}{10}{subsection.1.8}
-\contentsline {paragraph}{åŸºæœ¬ã«ãªã‚‹å…¬å¼ã®å°å‡º}{11}{section*.8}
-\contentsline {paragraph}{å¤šé …åˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†}{11}{section*.11}
-\contentsline {paragraph}{KLæƒ…å ±é‡ã®å°å‡º}{12}{section*.12}
-\contentsline {paragraph}{KLæƒ…å ±é‡ã¨å¤šé …åˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†ã®é–¢ä¿‚}{12}{section*.13}
-\contentsline {paragraph}{Pearsonã®ã‚«ã‚¤2ä¹—çµ±è¨ˆé‡ã¨ã®é–¢ä¿‚}{13}{section*.14}
-\contentsline {subsection}{\numberline {1.9}Poissonåˆ†å¸ƒã¨Kullback-Leibleræƒ…å ±é‡ã®é–¢ä¿‚}{15}{subsection.1.9}
-\contentsline {paragraph}{Poissonåˆ†å¸ƒ}{15}{section*.15}
-\contentsline {paragraph}{Poissonåˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†}{16}{section*.16}
-\contentsline {paragraph}{Poissonåˆ†å¸ƒã‹ã‚‰å¤šé …åˆ†å¸ƒã¸}{16}{section*.17}
-\contentsline {paragraph}{å˜ç‹¬ã®Poissonåˆ†å¸ƒã‹ã‚‰KLæƒ…å ±é‡ã®å„é …ã¸}{17}{section*.18}
-\contentsline {paragraph}{è¤‡æ•°ã®Poissonåˆ†å¸ƒã®ç©ã‹ã‚‰KLæƒ…å ±é‡ã¸}{18}{section*.19}
-\contentsline {paragraph}{è¤‡æ•°ã®Poissonåˆ†å¸ƒã®ç©ã‹ã‚‰å¤šé …åˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†ã¸}{18}{section*.20}
-\contentsline {section}{\numberline {2}æ¡ä»¶ä»˜ãå¤§æ•°ã®æ³•å‰‡ã‹ã‚‰Boltzmannå› å­ã¸}{19}{section.2}
-\contentsline {subsection}{\numberline {2.1}å•é¡Œã®è¨­å®š}{19}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Boltzmannå› å­ã®å°å‡º}{20}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}æ¯åˆ†å¸ƒãŒé€£ç¶šå‹ã®å ´åˆã‹ã‚‰é€£ç¶šå‹ã®æŒ‡æ•°å‹åˆ†å¸ƒæ—ãŒå¾—ã‚‰ã‚Œã‚‹ã“ã¨}{21}{subsection.2.3}
-\contentsline {paragraph}{äºŒé …åˆ†å¸ƒ:}{22}{section*.29}
-\contentsline {paragraph}{å¤šé …åˆ†å¸ƒ:}{22}{section*.30}
-\contentsline {paragraph}{æ­£è¦åˆ†å¸ƒ:}{22}{section*.31}
-\contentsline {paragraph}{Gammaåˆ†å¸ƒ:}{22}{section*.32}
-\contentsline {paragraph}{ç¬¬äºŒç¨®Betaåˆ†å¸ƒ:}{22}{section*.33}
-\contentsline {paragraph}{è‡ªç”±åº¦ $n$ ã® $t$ åˆ†å¸ƒã‚’ $1/\sqrt {n}$ ã§ã‚¹ã‚±ãƒ¼ãƒ«ã—ãŸã‚‚ã®:}{23}{section*.34}
-\contentsline {paragraph}{ç¬¬ä¸€ç¨®Betaåˆ†å¸ƒ:}{23}{section*.35}
-\contentsline {paragraph}{Poissonåˆ†å¸ƒ:}{23}{section*.36}
-\contentsline {subsection}{\numberline {2.4}æ¨™æº–æ­£è¦åˆ†å¸ƒã®å°å‡ºä¾‹}{23}{subsection.2.4}
-\contentsline {section}{\numberline {3}å¤šé …åˆ†å¸ƒã®å ´åˆã®Sanovã®å®šç†}{24}{section.3}
-\contentsline {subsection}{\numberline {3.1}Sanovã®å®šç†ã®ä¸»å¼µ}{24}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Sanovã®å®šç†ã®è¨¼æ˜ã®æº–å‚™}{25}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Sanovã®å®šç†ã®è¨¼æ˜}{27}{subsection.3.3}
-\contentsline {section}{\numberline {4}Sanovã®å®šç†ã‚’ä½¿ã£ãŸã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º}{30}{section.4}
-\contentsline {subsection}{\numberline {4.1}åˆ†é…å‡½æ•°ã¨ã‚¨ãƒãƒ«ã‚®ãƒ¼ã®æœŸå¾…å€¤}{30}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}æ¡ä»¶ä»˜ãç¢ºç‡åˆ†å¸ƒã®ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã¸ã®åæŸ}{31}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}ã¾ã¨ã‚ã¨äºŒé …åˆ†å¸ƒã‚‚ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®ä¾‹ã«ãªã£ã¦ã„ã‚‹ã“ã¨}{34}{subsection.4.3}
-\contentsline {section}{\numberline {5}ä»˜éŒ²: Kullback-Leibleræƒ…å ±é‡ã«é–¢ã™ã‚‹ä¸ç­‰å¼}{37}{section.5}
-\contentsline {subsection}{\numberline {5.1}æº–å‚™: Jensenã®ä¸ç­‰å¼}{37}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}å¯¾æ•°å’Œä¸ç­‰å¼ã¨ãã®å¿œç”¨}{38}{subsection.5.2}
-\contentsline {paragraph}{å¯¾æ•°å’Œä¸ç­‰å¼}{38}{section*.43}
-\contentsline {subsection}{\numberline {5.3}Kullback-Leibleræƒ…å ±é‡ã§ $L^1$ è·é›¢ã‚’ä¸Šã‹ã‚‰ãŠã•ãˆã‚‰ã‚Œã“ã¨}{39}{subsection.5.3}
-\contentsline {paragraph}{KLæƒ…å ±é‡ã§ $L^1$ è·é›¢ã‚’ä¸Šã‹ã‚‰ãŠã•ãˆã‚‰ã‚Œã‚‹ã“ã¨:}{39}{section*.45}
-\contentsline {subsection}{\numberline {5.4}Pithagorian theorem}{40}{subsection.5.4}
+\contentsline {paragraph}{ŒÃ‚¢”Å}{1}{section*.1}
+\contentsline {section}{\numberline {0}‚Í‚¶‚ß‚É}{3}{section.0}
+\contentsline {section}{\numberline {1}‘½€•ª•z‚©‚çKullback-Leiblerî•ñ—Ê‚Ö}{4}{section.1}
+\contentsline {paragraph}{€”õ (Stirling‚ÌŒö®)}{5}{section*.4}
+\contentsline {subsection}{\numberline {1.1}•êW’c•ª•z‚ª $q_i$ ‚Ì‘½€•ª•z}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}ƒTƒ“ƒvƒ‹ƒTƒCƒY‚ğ‘å‚«‚­‚µ‚½‚Æ‚«‚Ì‘½€•ª•z‚Ì‘Q‹ß‹““®}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Kullback-Leiblerî•ñ—Ê‚Æ‘Š‘ÎƒGƒ“ƒgƒƒs[‚Ì’è‹`}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Kullback-Leiblerî•ñ—Ê‚ÌŠî–{«¿}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}“ñ€•ª•z‚Ìê‡‚ÌŒvZ—á}{8}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}max-plus‘ã”‚Ö‚Ì‹ÉŒÀ‚âLaplace‚Ì•û–@‚Æ‚ÌŠÖŒW}{9}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}‹æ•ª‹Ï–@‚É‚æ‚é‚ZƒŒƒxƒ‹‚ÌŒvZ‚ÅKLî•ñ—Ê‚ğo‚·•û–@}{10}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Kullback-Leiblerî•ñ—Ê‚Æ‘½€•ª•z‚Ì’†S‹ÉŒÀ’è—‚ÌŠÖŒW}{10}{subsection.1.8}
+\contentsline {paragraph}{Šî–{‚É‚È‚éŒö®‚Ì“±o}{11}{section*.8}
+\contentsline {paragraph}{‘½€•ª•z‚Ì’†S‹ÉŒÀ’è—}{11}{section*.11}
+\contentsline {paragraph}{KLî•ñ—Ê‚Ì“±o}{12}{section*.12}
+\contentsline {paragraph}{KLî•ñ—Ê‚Æ‘½€•ª•z‚Ì’†S‹ÉŒÀ’è—‚ÌŠÖŒW}{12}{section*.13}
+\contentsline {paragraph}{Pearson‚ÌƒJƒC2æ“Œv—Ê‚Æ‚ÌŠÖŒW}{13}{section*.14}
+\contentsline {subsection}{\numberline {1.9}Poisson•ª•z‚ÆKullback-Leiblerî•ñ—Ê‚ÌŠÖŒW}{15}{subsection.1.9}
+\contentsline {paragraph}{Poisson•ª•z}{15}{section*.15}
+\contentsline {paragraph}{Poisson•ª•z‚Ì’†S‹ÉŒÀ’è—}{16}{section*.16}
+\contentsline {paragraph}{Poisson•ª•z‚©‚ç‘½€•ª•z‚Ö}{16}{section*.17}
+\contentsline {paragraph}{’P“Æ‚ÌPoisson•ª•z‚©‚çKLî•ñ—Ê‚ÌŠe€‚Ö}{17}{section*.18}
+\contentsline {paragraph}{•¡”‚ÌPoisson•ª•z‚ÌÏ‚©‚çKLî•ñ—Ê‚Ö}{18}{section*.19}
+\contentsline {paragraph}{•¡”‚ÌPoisson•ª•z‚ÌÏ‚©‚ç‘½€•ª•z‚Ì’†S‹ÉŒÀ’è—‚Ö}{18}{section*.20}
+\contentsline {section}{\numberline {2}ğŒ•t‚«‘å”‚Ì–@‘¥‚©‚çBoltzmannˆöq‚Ö}{19}{section.2}
+\contentsline {subsection}{\numberline {2.1}–â‘è‚Ìİ’è}{19}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Boltzmannˆöq‚Ì“±o}{20}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}•ê•ª•z‚ª˜A‘±Œ^‚Ìê‡‚©‚ç˜A‘±Œ^‚Ìw”Œ^•ª•z‘°‚ª“¾‚ç‚ê‚é‚±‚Æ}{21}{subsection.2.3}
+\contentsline {paragraph}{“ñ€•ª•z:}{22}{section*.29}
+\contentsline {paragraph}{‘½€•ª•z:}{22}{section*.30}
+\contentsline {paragraph}{³‹K•ª•z:}{22}{section*.31}
+\contentsline {paragraph}{Gamma•ª•z:}{22}{section*.32}
+\contentsline {paragraph}{‘æ“ñíBeta•ª•z:}{22}{section*.33}
+\contentsline {paragraph}{©—R“x $n$ ‚Ì $t$ •ª•z‚ğ $1/\sqrt {n}$ ‚ÅƒXƒP[ƒ‹‚µ‚½‚à‚Ì:}{23}{section*.34}
+\contentsline {paragraph}{‘æˆêíBeta•ª•z:}{23}{section*.35}
+\contentsline {paragraph}{Poisson•ª•z:}{23}{section*.36}
+\contentsline {subsection}{\numberline {2.4}•W€³‹K•ª•z‚Ì“±o—á}{23}{subsection.2.4}
+\contentsline {section}{\numberline {3}‘½€•ª•z‚Ìê‡‚ÌSanov‚Ì’è—}{24}{section.3}
+\contentsline {subsection}{\numberline {3.1}Sanov‚Ì’è—‚Ìå’£}{24}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Sanov‚Ì’è—‚ÌØ–¾‚Ì€”õ}{25}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Sanov‚Ì’è—‚ÌØ–¾}{27}{subsection.3.3}
+\contentsline {section}{\numberline {4}Sanov‚Ì’è—‚ğg‚Á‚½ƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o}{29}{section.4}
+\contentsline {subsection}{\numberline {4.1}•ª”z”Ÿ”‚ÆƒGƒlƒ‹ƒM[‚ÌŠú‘Ò’l}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}ğŒ•t‚«Šm—¦•ª•z‚ÌƒJƒmƒjƒJƒ‹•ª•z‚Ö‚Ìû‘©}{31}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}‚Ü‚Æ‚ß‚Æ“ñ€•ª•z‚àƒJƒmƒjƒJƒ‹•ª•z‚Ì—á‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ}{34}{subsection.4.3}
+\contentsline {section}{\numberline {5}•t˜^: Kullback-Leiblerî•ñ—Ê‚ÉŠÖ‚·‚é•s“™®}{36}{section.5}
+\contentsline {subsection}{\numberline {5.1}€”õ: Jensen‚Ì•s“™®}{36}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}‘Î”˜a•s“™®‚Æ‚»‚Ì‰—p}{37}{subsection.5.2}
+\contentsline {paragraph}{‘Î”˜a•s“™®}{37}{section*.43}
+\contentsline {subsection}{\numberline {5.3}Kullback-Leiblerî•ñ—Ê‚Å $L^1$ ‹——£‚ğã‚©‚ç‚¨‚³‚¦‚ç‚ê‚±‚Æ}{38}{subsection.5.3}
+\contentsline {paragraph}{KLî•ñ—Ê‚Å $L^1$ ‹——£‚ğã‚©‚ç‚¨‚³‚¦‚ç‚ê‚é‚±‚Æ:}{39}{section*.45}
+\contentsline {subsection}{\numberline {5.4}Pithagorian theorem}{39}{subsection.5.4}
 \contentsline {paragraph}{Pythagorian theorem}{40}{section*.47}
-\contentsline {section}{\numberline {6}ä»˜éŒ²: Cram\'erã®å®šç†}{40}{section.6}
-\contentsline {subsection}{\numberline {6.1}Cram\'erã®å®šç†ã®è¨­å®šã¨ä¸»å¼µ}{41}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Cram\'erã®å®šç†ã®è¨¼æ˜}{42}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã¨ã®é–¢ä¿‚}{46}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}ã‚¬ãƒ³ãƒåˆ†å¸ƒã®å ´åˆã®ä¾‹}{46}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Sanovã®å®šç†ãŒæ‹¡å¼µã•ã‚ŒãŸCram\'erã®å®šç†ã®ç‰¹åˆ¥ãªå ´åˆã§ã‚ã‚‹ã“ã¨}{48}{subsection.6.5}
-\contentsline {subsection}{\numberline {6.6}$\Psi (\beta )=\qopname \relax o{log}\DOTSB \sum@ \slimits@ _{i=1}^r e^{-\beta _i}q_i$ ã®Legendreå¤‰æ›ã¯ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{50}{subsection.6.6}
-\contentsline {section}{\numberline {7}ä»˜éŒ²: çµ±è¨ˆåŠ›å­¦ã¨ã®é–¢ä¿‚?}{52}{section.7}
-\contentsline {subsection}{\numberline {7.1}ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ¼ã«é–¢ã™ã‚‹åˆ†é…å‡½æ•°ã®æ¼¸è¿‘æŒ™å‹•ã‚’ä»®å®šã—ãŸå ´åˆ}{53}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}çµ±è¨ˆåŠ›å­¦ã®æ•™ç§‘æ›¸ã«ãŠã‘ã‚‹ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º (1)}{56}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}çµ±è¨ˆåŠ›å­¦ã®æ•™ç§‘æ›¸ã«ãŠã‘ã‚‹ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º (2)}{58}{subsection.7.3}
-\contentsline {section}{\numberline {8}ä»˜éŒ²: ä»–ã®ç¨®é¡ã®ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã«ã¤ã„ã¦}{59}{section.8}
-\contentsline {subsection}{\numberline {8.1}è‡ªç”±ã‚¨ãƒãƒ«ã‚®ãƒ¼ã‚„Massieuå‡½æ•°ã¨ã®é–¢ä¿‚}{59}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}ç›¸å¯¾R\'enyiã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{60}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{61}{subsection.8.3}
-\contentsline {paragraph}{ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{63}{section*.54}
-\contentsline {paragraph}{ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{63}{section*.55}
-\contentsline {paragraph}{ç›¸å¯¾R\'enyiã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{64}{section*.56}
-\contentsline {subsection}{\numberline {8.4}åŠ æ³•æ€§(ç¤ºé‡æ€§)ã«ã¤ã„ã¦}{64}{subsection.8.4}
-\contentsline {subsection}{\numberline {8.5}ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã‚’æ¼¸è¿‘æŒ™å‹•ã«å«ã‚€å¤šé …åˆ†å¸ƒã®æ‹¡å¼µ(1)}{65}{subsection.8.5}
-\contentsline {subsection}{\numberline {8.6}ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã‚’æ¼¸è¿‘æŒ™å‹•ã«å«ã‚€å¤šé …åˆ†å¸ƒã®æ‹¡å¼µ(2)}{67}{subsection.8.6}
-\contentsline {subsection}{\numberline {8.7}Csisz\'arã® $f$-divergence}{68}{subsection.8.7}
-\contentsline {paragraph}{å¯¾æ•°å’Œä¸ç­‰å¼ã®ä¸€èˆ¬åŒ–}{69}{section*.57}
-\contentsline {section}{\numberline {9}ä»˜éŒ²: ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã«é–¢ã™ã‚‹ç°¡å˜ãªè§£èª¬}{69}{section.9}
-\contentsline {subsection}{\numberline {9.1}ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã®å®šç¾©}{69}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã®ä½¿ã„æ–¹}{70}{subsection.9.2}
-\contentsline {section}{\numberline {10}Mcmillanã®ä¸ç­‰å¼ã¨å¹³å‡ç¬¦å·é•·}{71}{section.10}
-\contentsline {subsection}{\numberline {10.1}Mcmillanã®ä¸ç­‰å¼}{71}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}å¹³å‡ç¬¦å·é•·ã¸ã®å¿œç”¨}{72}{subsection.10.2}
+\contentsline {section}{\numberline {6}•t˜^: Cram\'er‚Ì’è—}{40}{section.6}
+\contentsline {subsection}{\numberline {6.1}Cram\'er‚Ì’è—‚Ìİ’è‚Æå’£}{41}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Cram\'er‚Ì’è—‚ÌØ–¾}{42}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}ƒJƒmƒjƒJƒ‹•ª•z‚Ì‘Š‘ÎƒGƒ“ƒgƒƒs[‚Æ‚ÌŠÖŒW}{46}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}ƒKƒ“ƒ}•ª•z‚Ìê‡‚Ì—á}{46}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Sanov‚Ì’è—‚ªŠg’£‚³‚ê‚½Cram\'er‚Ì’è—‚Ì“Á•Ê‚Èê‡‚Å‚ ‚é‚±‚Æ}{48}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}$\Psi (\beta )=\qopname \relax o{log}\DOTSB \sum@ \slimits@ _{i=1}^r e^{-\beta _i}q_i$ ‚ÌLegendre•ÏŠ·‚Í‘Š‘ÎƒGƒ“ƒgƒƒs[}{50}{subsection.6.6}
+\contentsline {section}{\numberline {7}•t˜^: “Œv—ÍŠw‚Æ‚ÌŠÖŒW?}{52}{section.7}
+\contentsline {subsection}{\numberline {7.1}ƒpƒ‰ƒ[ƒ^[‚ÉŠÖ‚·‚é•ª”z”Ÿ”‚Ì‘Q‹ß‹““®‚ğ‰¼’è‚µ‚½ê‡}{53}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}“Œv—ÍŠw‚Ì‹³‰È‘‚É‚¨‚¯‚éƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o (1)}{56}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}“Œv—ÍŠw‚Ì‹³‰È‘‚É‚¨‚¯‚éƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o (2)}{58}{subsection.7.3}
+\contentsline {section}{\numberline {8}•t˜^: ‘¼‚Ìí—Ş‚ÌƒGƒ“ƒgƒƒs[‚É‚Â‚¢‚Ä}{59}{section.8}
+\contentsline {subsection}{\numberline {8.1}©—RƒGƒlƒ‹ƒM[‚âMassieu”Ÿ”‚Æ‚ÌŠÖŒW}{59}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}‘Š‘ÎR\'enyiƒGƒ“ƒgƒƒs[}{60}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[}{61}{subsection.8.3}
+\contentsline {paragraph}{‘Š‘ÎƒGƒ“ƒgƒƒs[}{63}{section*.54}
+\contentsline {paragraph}{‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[}{63}{section*.55}
+\contentsline {paragraph}{‘Š‘ÎR\'enyiƒGƒ“ƒgƒƒs[}{64}{section*.56}
+\contentsline {subsection}{\numberline {8.4}‰Á–@«(¦—Ê«)‚É‚Â‚¢‚Ä}{64}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[‚ğ‘Q‹ß‹““®‚ÉŠÜ‚Ş‘½€•ª•z‚ÌŠg’£(1)}{65}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[‚ğ‘Q‹ß‹““®‚ÉŠÜ‚Ş‘½€•ª•z‚ÌŠg’£(2)}{67}{subsection.8.6}
+\contentsline {subsection}{\numberline {8.7}Csisz\'ar‚Ì $f$-divergence}{68}{subsection.8.7}
+\contentsline {paragraph}{‘Î”˜a•s“™®‚Ìˆê”Ê‰»}{69}{section*.57}
+\contentsline {section}{\numberline {9}•t˜^: ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚ÉŠÖ‚·‚éŠÈ’P‚È‰ğà}{69}{section.9}
+\contentsline {subsection}{\numberline {9.1}ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚Ì’è‹`}{69}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚Ìg‚¢•û}{70}{subsection.9.2}
+\contentsline {section}{\numberline {10}Mcmillan‚Ì•s“™®‚Æ•½‹Ï•„†’·}{71}{section.10}
+\contentsline {subsection}{\numberline {10.1}Mcmillan‚Ì•s“™®}{71}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}•½‹Ï•„†’·‚Ö‚Ì‰—p}{72}{subsection.10.2}

@@ -1,54 +1,54 @@
-\BOOKMARK [1][-]{section.0}{0 ã¯ã˜ã‚ã«}{}% 1
-\BOOKMARK [1][-]{section.1}{1 å¤šé …åˆ†å¸ƒã‹ã‚‰Kullback-Leibleræƒ…å ±é‡ã¸}{}% 2
-\BOOKMARK [2][-]{subsection.1.1}{1.1 æ¯é›†å›£åˆ†å¸ƒãŒ qi ã®å¤šé …åˆ†å¸ƒ}{section.1}% 3
-\BOOKMARK [2][-]{subsection.1.2}{1.2 ã‚µãƒ³ãƒ—ãƒ«ã‚µã‚¤ã‚ºã‚’å¤§ããã—ãŸã¨ãã®å¤šé …åˆ†å¸ƒã®æ¼¸è¿‘æŒ™å‹•}{section.1}% 4
-\BOOKMARK [2][-]{subsection.1.3}{1.3 Kullback-Leibleræƒ…å ±é‡ã¨ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã®å®šç¾©}{section.1}% 5
-\BOOKMARK [2][-]{subsection.1.4}{1.4 Kullback-Leibleræƒ…å ±é‡ã®åŸºæœ¬æ€§è³ª}{section.1}% 6
-\BOOKMARK [2][-]{subsection.1.5}{1.5 äºŒé …åˆ†å¸ƒã®å ´åˆã®è¨ˆç®—ä¾‹}{section.1}% 7
-\BOOKMARK [2][-]{subsection.1.6}{1.6 max-plusä»£æ•°ã¸ã®æ¥µé™ã‚„Laplaceã®æ–¹æ³•ã¨ã®é–¢ä¿‚}{section.1}% 8
-\BOOKMARK [2][-]{subsection.1.7}{1.7 åŒºåˆ†æ±‚ç©æ³•ã«ã‚ˆã‚‹é«˜æ ¡ãƒ¬ãƒ™ãƒ«ã®è¨ˆç®—ã§KLæƒ…å ±é‡ã‚’å‡ºã™æ–¹æ³•}{section.1}% 9
-\BOOKMARK [2][-]{subsection.1.8}{1.8 Kullback-Leibleræƒ…å ±é‡ã¨å¤šé …åˆ†å¸ƒã®ä¸­å¿ƒæ¥µé™å®šç†ã®é–¢ä¿‚}{section.1}% 10
-\BOOKMARK [2][-]{subsection.1.9}{1.9 Poissonåˆ†å¸ƒã¨Kullback-Leibleræƒ…å ±é‡ã®é–¢ä¿‚}{section.1}% 11
-\BOOKMARK [1][-]{section.2}{2 æ¡ä»¶ä»˜ãå¤§æ•°ã®æ³•å‰‡ã‹ã‚‰Boltzmannå› å­ã¸}{}% 12
-\BOOKMARK [2][-]{subsection.2.1}{2.1 å•é¡Œã®è¨­å®š}{section.2}% 13
-\BOOKMARK [2][-]{subsection.2.2}{2.2 Boltzmannå› å­ã®å°å‡º}{section.2}% 14
-\BOOKMARK [2][-]{subsection.2.3}{2.3 æ¯åˆ†å¸ƒãŒé€£ç¶šå‹ã®å ´åˆã‹ã‚‰é€£ç¶šå‹ã®æŒ‡æ•°å‹åˆ†å¸ƒæ—ãŒå¾—ã‚‰ã‚Œã‚‹ã“ã¨}{section.2}% 15
-\BOOKMARK [2][-]{subsection.2.4}{2.4 æ¨™æº–æ­£è¦åˆ†å¸ƒã®å°å‡ºä¾‹}{section.2}% 16
-\BOOKMARK [1][-]{section.3}{3 å¤šé …åˆ†å¸ƒã®å ´åˆã®Sanovã®å®šç†}{}% 17
-\BOOKMARK [2][-]{subsection.3.1}{3.1 Sanovã®å®šç†ã®ä¸»å¼µ}{section.3}% 18
-\BOOKMARK [2][-]{subsection.3.2}{3.2 Sanovã®å®šç†ã®è¨¼æ˜ã®æº–å‚™}{section.3}% 19
-\BOOKMARK [2][-]{subsection.3.3}{3.3 Sanovã®å®šç†ã®è¨¼æ˜}{section.3}% 20
-\BOOKMARK [1][-]{section.4}{4 Sanovã®å®šç†ã‚’ä½¿ã£ãŸã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º}{}% 21
-\BOOKMARK [2][-]{subsection.4.1}{4.1 åˆ†é…å‡½æ•°ã¨ã‚¨ãƒãƒ«ã‚®ãƒ¼ã®æœŸå¾…å€¤}{section.4}% 22
-\BOOKMARK [2][-]{subsection.4.2}{4.2 æ¡ä»¶ä»˜ãç¢ºç‡åˆ†å¸ƒã®ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã¸ã®åæŸ}{section.4}% 23
-\BOOKMARK [2][-]{subsection.4.3}{4.3 ã¾ã¨ã‚ã¨äºŒé …åˆ†å¸ƒã‚‚ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®ä¾‹ã«ãªã£ã¦ã„ã‚‹ã“ã¨}{section.4}% 24
-\BOOKMARK [1][-]{section.5}{5 ä»˜éŒ²: Kullback-Leibleræƒ…å ±é‡ã«é–¢ã™ã‚‹ä¸ç­‰å¼}{}% 25
-\BOOKMARK [2][-]{subsection.5.1}{5.1 æº–å‚™: Jensenã®ä¸ç­‰å¼}{section.5}% 26
-\BOOKMARK [2][-]{subsection.5.2}{5.2 å¯¾æ•°å’Œä¸ç­‰å¼ã¨ãã®å¿œç”¨}{section.5}% 27
-\BOOKMARK [2][-]{subsection.5.3}{5.3 Kullback-Leibleræƒ…å ±é‡ã§ L1 è·é›¢ã‚’ä¸Šã‹ã‚‰ãŠã•ãˆã‚‰ã‚Œã“ã¨}{section.5}% 28
+\BOOKMARK [1][-]{section.0}{0 ‚Í‚¶‚ß‚É}{}% 1
+\BOOKMARK [1][-]{section.1}{1 ‘½€•ª•z‚©‚çKullback-Leiblerî•ñ—Ê‚Ö}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{1.1 •êW’c•ª•z‚ª qi ‚Ì‘½€•ª•z}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{1.2 ƒTƒ“ƒvƒ‹ƒTƒCƒY‚ğ‘å‚«‚­‚µ‚½‚Æ‚«‚Ì‘½€•ª•z‚Ì‘Q‹ß‹““®}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.3}{1.3 Kullback-Leiblerî•ñ—Ê‚Æ‘Š‘ÎƒGƒ“ƒgƒƒs[‚Ì’è‹`}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.4}{1.4 Kullback-Leiblerî•ñ—Ê‚ÌŠî–{«¿}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.5}{1.5 “ñ€•ª•z‚Ìê‡‚ÌŒvZ—á}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.6}{1.6 max-plus‘ã”‚Ö‚Ì‹ÉŒÀ‚âLaplace‚Ì•û–@‚Æ‚ÌŠÖŒW}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.7}{1.7 ‹æ•ª‹Ï–@‚É‚æ‚é‚ZƒŒƒxƒ‹‚ÌŒvZ‚ÅKLî•ñ—Ê‚ğo‚·•û–@}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.8}{1.8 Kullback-Leiblerî•ñ—Ê‚Æ‘½€•ª•z‚Ì’†S‹ÉŒÀ’è—‚ÌŠÖŒW}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.9}{1.9 Poisson•ª•z‚ÆKullback-Leiblerî•ñ—Ê‚ÌŠÖŒW}{section.1}% 11
+\BOOKMARK [1][-]{section.2}{2 ğŒ•t‚«‘å”‚Ì–@‘¥‚©‚çBoltzmannˆöq‚Ö}{}% 12
+\BOOKMARK [2][-]{subsection.2.1}{2.1 –â‘è‚Ìİ’è}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.2}{2.2 Boltzmannˆöq‚Ì“±o}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.3}{2.3 •ê•ª•z‚ª˜A‘±Œ^‚Ìê‡‚©‚ç˜A‘±Œ^‚Ìw”Œ^•ª•z‘°‚ª“¾‚ç‚ê‚é‚±‚Æ}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.4}{2.4 •W€³‹K•ª•z‚Ì“±o—á}{section.2}% 16
+\BOOKMARK [1][-]{section.3}{3 ‘½€•ª•z‚Ìê‡‚ÌSanov‚Ì’è—}{}% 17
+\BOOKMARK [2][-]{subsection.3.1}{3.1 Sanov‚Ì’è—‚Ìå’£}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Sanov‚Ì’è—‚ÌØ–¾‚Ì€”õ}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.3}{3.3 Sanov‚Ì’è—‚ÌØ–¾}{section.3}% 20
+\BOOKMARK [1][-]{section.4}{4 Sanov‚Ì’è—‚ğg‚Á‚½ƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o}{}% 21
+\BOOKMARK [2][-]{subsection.4.1}{4.1 •ª”z”Ÿ”‚ÆƒGƒlƒ‹ƒM[‚ÌŠú‘Ò’l}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.2}{4.2 ğŒ•t‚«Šm—¦•ª•z‚ÌƒJƒmƒjƒJƒ‹•ª•z‚Ö‚Ìû‘©}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.3}{4.3 ‚Ü‚Æ‚ß‚Æ“ñ€•ª•z‚àƒJƒmƒjƒJƒ‹•ª•z‚Ì—á‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ}{section.4}% 24
+\BOOKMARK [1][-]{section.5}{5 •t˜^: Kullback-Leiblerî•ñ—Ê‚ÉŠÖ‚·‚é•s“™®}{}% 25
+\BOOKMARK [2][-]{subsection.5.1}{5.1 €”õ: Jensen‚Ì•s“™®}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.2}{5.2 ‘Î”˜a•s“™®‚Æ‚»‚Ì‰—p}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.3}{5.3 Kullback-Leiblerî•ñ—Ê‚Å L1 ‹——£‚ğã‚©‚ç‚¨‚³‚¦‚ç‚ê‚±‚Æ}{section.5}% 28
 \BOOKMARK [2][-]{subsection.5.4}{5.4 Pithagorian theorem}{section.5}% 29
-\BOOKMARK [1][-]{section.6}{6 ä»˜éŒ²: Cramerã®å®šç†}{}% 30
-\BOOKMARK [2][-]{subsection.6.1}{6.1 Cramerã®å®šç†ã®è¨­å®šã¨ä¸»å¼µ}{section.6}% 31
-\BOOKMARK [2][-]{subsection.6.2}{6.2 Cramerã®å®šç†ã®è¨¼æ˜}{section.6}% 32
-\BOOKMARK [2][-]{subsection.6.3}{6.3 ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã¨ã®é–¢ä¿‚}{section.6}% 33
-\BOOKMARK [2][-]{subsection.6.4}{6.4 ã‚¬ãƒ³ãƒåˆ†å¸ƒã®å ´åˆã®ä¾‹}{section.6}% 34
-\BOOKMARK [2][-]{subsection.6.5}{6.5 Sanovã®å®šç†ãŒæ‹¡å¼µã•ã‚ŒãŸCramerã®å®šç†ã®ç‰¹åˆ¥ãªå ´åˆã§ã‚ã‚‹ã“ã¨}{section.6}% 35
-\BOOKMARK [2][-]{subsection.6.6}{6.6 \(\)=logi=1r e-iqi ã®Legendreå¤‰æ›ã¯ç›¸å¯¾ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{section.6}% 36
-\BOOKMARK [1][-]{section.7}{7 ä»˜éŒ²: çµ±è¨ˆåŠ›å­¦ã¨ã®é–¢ä¿‚?}{}% 37
-\BOOKMARK [2][-]{subsection.7.1}{7.1 ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ¼ã«é–¢ã™ã‚‹åˆ†é…å‡½æ•°ã®æ¼¸è¿‘æŒ™å‹•ã‚’ä»®å®šã—ãŸå ´åˆ}{section.7}% 38
-\BOOKMARK [2][-]{subsection.7.2}{7.2 çµ±è¨ˆåŠ›å­¦ã®æ•™ç§‘æ›¸ã«ãŠã‘ã‚‹ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º \(1\)}{section.7}% 39
-\BOOKMARK [2][-]{subsection.7.3}{7.3 çµ±è¨ˆåŠ›å­¦ã®æ•™ç§‘æ›¸ã«ãŠã‘ã‚‹ã‚«ãƒãƒ‹ã‚«ãƒ«åˆ†å¸ƒã®å°å‡º \(2\)}{section.7}% 40
-\BOOKMARK [1][-]{section.8}{8 ä»˜éŒ²: ä»–ã®ç¨®é¡ã®ã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã«ã¤ã„ã¦}{}% 41
-\BOOKMARK [2][-]{subsection.8.1}{8.1 è‡ªç”±ã‚¨ãƒãƒ«ã‚®ãƒ¼ã‚„Massieuå‡½æ•°ã¨ã®é–¢ä¿‚}{section.8}% 42
-\BOOKMARK [2][-]{subsection.8.2}{8.2 ç›¸å¯¾Renyiã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{section.8}% 43
-\BOOKMARK [2][-]{subsection.8.3}{8.3 ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼}{section.8}% 44
-\BOOKMARK [2][-]{subsection.8.4}{8.4 åŠ æ³•æ€§\(ç¤ºé‡æ€§\)ã«ã¤ã„ã¦}{section.8}% 45
-\BOOKMARK [2][-]{subsection.8.5}{8.5 ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã‚’æ¼¸è¿‘æŒ™å‹•ã«å«ã‚€å¤šé …åˆ†å¸ƒã®æ‹¡å¼µ\(1\)}{section.8}% 46
-\BOOKMARK [2][-]{subsection.8.6}{8.6 ç›¸å¯¾Tsallisã‚¨ãƒ³ãƒˆãƒ­ãƒ”ãƒ¼ã‚’æ¼¸è¿‘æŒ™å‹•ã«å«ã‚€å¤šé …åˆ†å¸ƒã®æ‹¡å¼µ\(2\)}{section.8}% 47
-\BOOKMARK [2][-]{subsection.8.7}{8.7 Csiszarã® f-divergence}{section.8}% 48
-\BOOKMARK [1][-]{section.9}{9 ä»˜éŒ²: ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã«é–¢ã™ã‚‹ç°¡å˜ãªè§£èª¬}{}% 49
-\BOOKMARK [2][-]{subsection.9.1}{9.1 ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã®å®šç¾©}{section.9}% 50
-\BOOKMARK [2][-]{subsection.9.2}{9.2 ä¸Šæ¥µé™ã¨ä¸‹æ¥µé™ã®ä½¿ã„æ–¹}{section.9}% 51
-\BOOKMARK [1][-]{section.10}{10 Mcmillanã®ä¸ç­‰å¼ã¨å¹³å‡ç¬¦å·é•·}{}% 52
-\BOOKMARK [2][-]{subsection.10.1}{10.1 Mcmillanã®ä¸ç­‰å¼}{section.10}% 53
-\BOOKMARK [2][-]{subsection.10.2}{10.2 å¹³å‡ç¬¦å·é•·ã¸ã®å¿œç”¨}{section.10}% 54
+\BOOKMARK [1][-]{section.6}{6 •t˜^: Cramer‚Ì’è—}{}% 30
+\BOOKMARK [2][-]{subsection.6.1}{6.1 Cramer‚Ì’è—‚Ìİ’è‚Æå’£}{section.6}% 31
+\BOOKMARK [2][-]{subsection.6.2}{6.2 Cramer‚Ì’è—‚ÌØ–¾}{section.6}% 32
+\BOOKMARK [2][-]{subsection.6.3}{6.3 ƒJƒmƒjƒJƒ‹•ª•z‚Ì‘Š‘ÎƒGƒ“ƒgƒƒs[‚Æ‚ÌŠÖŒW}{section.6}% 33
+\BOOKMARK [2][-]{subsection.6.4}{6.4 ƒKƒ“ƒ}•ª•z‚Ìê‡‚Ì—á}{section.6}% 34
+\BOOKMARK [2][-]{subsection.6.5}{6.5 Sanov‚Ì’è—‚ªŠg’£‚³‚ê‚½Cramer‚Ì’è—‚Ì“Á•Ê‚Èê‡‚Å‚ ‚é‚±‚Æ}{section.6}% 35
+\BOOKMARK [2][-]{subsection.6.6}{6.6 \(\)=logi=1r e-iqi ‚ÌLegendre•ÏŠ·‚Í‘Š‘ÎƒGƒ“ƒgƒƒs[}{section.6}% 36
+\BOOKMARK [1][-]{section.7}{7 •t˜^: “Œv—ÍŠw‚Æ‚ÌŠÖŒW?}{}% 37
+\BOOKMARK [2][-]{subsection.7.1}{7.1 ƒpƒ‰ƒ[ƒ^[‚ÉŠÖ‚·‚é•ª”z”Ÿ”‚Ì‘Q‹ß‹““®‚ğ‰¼’è‚µ‚½ê‡}{section.7}% 38
+\BOOKMARK [2][-]{subsection.7.2}{7.2 “Œv—ÍŠw‚Ì‹³‰È‘‚É‚¨‚¯‚éƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o \(1\)}{section.7}% 39
+\BOOKMARK [2][-]{subsection.7.3}{7.3 “Œv—ÍŠw‚Ì‹³‰È‘‚É‚¨‚¯‚éƒJƒmƒjƒJƒ‹•ª•z‚Ì“±o \(2\)}{section.7}% 40
+\BOOKMARK [1][-]{section.8}{8 •t˜^: ‘¼‚Ìí—Ş‚ÌƒGƒ“ƒgƒƒs[‚É‚Â‚¢‚Ä}{}% 41
+\BOOKMARK [2][-]{subsection.8.1}{8.1 ©—RƒGƒlƒ‹ƒM[‚âMassieu”Ÿ”‚Æ‚ÌŠÖŒW}{section.8}% 42
+\BOOKMARK [2][-]{subsection.8.2}{8.2 ‘Š‘ÎRenyiƒGƒ“ƒgƒƒs[}{section.8}% 43
+\BOOKMARK [2][-]{subsection.8.3}{8.3 ‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[}{section.8}% 44
+\BOOKMARK [2][-]{subsection.8.4}{8.4 ‰Á–@«\(¦—Ê«\)‚É‚Â‚¢‚Ä}{section.8}% 45
+\BOOKMARK [2][-]{subsection.8.5}{8.5 ‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[‚ğ‘Q‹ß‹““®‚ÉŠÜ‚Ş‘½€•ª•z‚ÌŠg’£\(1\)}{section.8}% 46
+\BOOKMARK [2][-]{subsection.8.6}{8.6 ‘Š‘ÎTsallisƒGƒ“ƒgƒƒs[‚ğ‘Q‹ß‹““®‚ÉŠÜ‚Ş‘½€•ª•z‚ÌŠg’£\(2\)}{section.8}% 47
+\BOOKMARK [2][-]{subsection.8.7}{8.7 Csiszar‚Ì f-divergence}{section.8}% 48
+\BOOKMARK [1][-]{section.9}{9 •t˜^: ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚ÉŠÖ‚·‚éŠÈ’P‚È‰ğà}{}% 49
+\BOOKMARK [2][-]{subsection.9.1}{9.1 ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚Ì’è‹`}{section.9}% 50
+\BOOKMARK [2][-]{subsection.9.2}{9.2 ã‹ÉŒÀ‚Æ‰º‹ÉŒÀ‚Ìg‚¢•û}{section.9}% 51
+\BOOKMARK [1][-]{section.10}{10 Mcmillan‚Ì•s“™®‚Æ•½‹Ï•„†’·}{}% 52
+\BOOKMARK [2][-]{subsection.10.1}{10.1 Mcmillan‚Ì•s“™®}{section.10}% 53
+\BOOKMARK [2][-]{subsection.10.2}{10.2 •½‹Ï•„†’·‚Ö‚Ì‰—p}{section.10}% 54
