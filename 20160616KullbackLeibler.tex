@@ -97,6 +97,7 @@
 2018年2月1日Ver.0.26(73頁): \secref{sec:Mcmillan}の説明の仕方が
 ひどかったので訂正した.
 4月3日Ver.0.26a(73頁): 微修正.
+6月24日Ver.0.26b(73頁): 微修正.
 }
 %%%%%%%%%%
 \\[\bigskipamount]
@@ -2905,10 +2906,10 @@ Cover-Thomas \cite{Cover-Thomas-2006} は情報理論に関する有名な教科
 \begin{enumerate}
 \item 線形性: 函数 $f(X)$, $g(X)$ と数 $\alpha,\beta$ に対して, \\
 \qquad $E[\alpha f(X)+\beta g(X)]=\alpha E[f(X)]+\beta E[g(X)]$.
-\item 短調性: $f(X)\geqq g(X)$ が常に成立しているならば $E[f(X)]\geqq E[g(X)]$.
+\item 単調性: $f(X)\geqq g(X)$ が常に成立しているならば $E[f(X)]\geqq E[g(X)]$.
 \item 規格化条件: $E[1]=1$.
 \end{enumerate}
-規格化条件と短調性より, 数 $\alpha$ に対して $E[\alpha]=\alpha$ となることがわかる.
+規格化条件と単調性より, 数 $\alpha$ に対して $E[\alpha]=\alpha$ となることがわかる.
 このような $E[\ \cdot\ ]$ を期待値汎函数と呼ぶ.
 たとえば $p_i\geqq 0$, $\sum_{i=1}^r p_i=1$ のとき,
 $E[f(X)]=\sum_{i=1}^r f(x_i)p_i$ は期待値汎函数である.
@@ -2932,7 +2933,7 @@ f(X)\leqq a(X-\mu)+f(\mu)
 \[
 E[f(X)]\leqq E[a(X-\mu)+f(\mu)]=a(E[X]-\mu)+f(\mu)=f(E[X]).
 \]
-2つ目の等号で期待値汎函数の短調性を使い,
+2つ目の等号で期待値汎函数の単調性を使い,
 2つ目の等号でその線形性と規格化条件を使った%
 \footnote{$E[f(X)]=\sum_{i=1}^r f(x_i)p_i$ の場合のJensenの不等式は
 $r$ に関する数学的帰納法で証明することもできるが, 期待値汎函数の公理だけを使って
